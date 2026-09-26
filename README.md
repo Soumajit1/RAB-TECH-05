@@ -8,12 +8,7 @@ This is a production-ready Web Application Capstone built with vanilla ES6 Modul
 3. **Dynamic CRUD Operations**: Create tasks, Read (view in columns), Update (move between To Do/Doing/Done), and Delete tasks without page reloads.
 4. **Persistent State**: Utilizes the browser's `localStorage` API to ensure user sessions and task data survive page refreshes.
 5. **Modern Architecture**: Uses ES6 imports/exports and a Vite build pipeline.
-
-## Local Setup
-1. Extract the ZIP file.
-2. Install dependencies: `npm install` (Installs Vite)
-3. Start development server: `npm run dev`
-4. Build for production: `npm run build`
+Upload failed: Database error during upload.`npm run build`
 
 ## Live Deployment Instructions (Vercel / Netlify)
 Since this project uses Vite, it is perfectly configured for zero-config deployments.
